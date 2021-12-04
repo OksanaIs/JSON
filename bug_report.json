@@ -1,14 +1,14 @@
 {
-	"Bug ID": "Needed for bug tracking",
-	"Title": "What, Where, When",
-	"Severity": "Blocker/Critical/Major/Minor/Trivial",
-	"Priority": "High/Medium/Minor",
-	"Assigned to": "Developer name",
-	"Reported by": "QA Engeneer name",
-	"Environment": "Device/Manufacturer and model number/OS version/Application version/Network connectivity/Screen orientation/Browser",
-	"Steps to Reproduce": "This item should contain the minimum steps that describe the entire path of reproducing the bug",
-	"Expected Result:": "Expected result according to the technical task, design, test cases outcome",
-	"Actual result": "This field describes the actual effect of the bug",
-	"Attachments": "Screenshots/Video/Log-file"
+	"bug_id": "Needed for bug tracking",
+	"title": "What, Where, When",
+	"severity": "Blocker/Critical/Major/Minor/Trivial",
+	"priority": "High/Medium/Minor",
+	"assigned_to": "Developer name",
+	"reported_by": "QA engeneer name",
+	"environment": "Device/Manufacturer and model number/OS version/Application version/Network connectivity/Screen orientation/Browser",
+	"steps": "Should contain the minimum steps that describe the entire path of reproducing the bug",
+	"expected_result:": "Expected result according to the technical task, design, test cases outcome",
+	"actual_result": "This field describes the actual effect of the bug",
+	"attachments": "Screenshots/Video/Log-file"
 }
 
