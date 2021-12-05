@@ -1,6 +1,9 @@
 {
-	"name": "Oksana Iskandarova",
-	"age": 29,
-	"pets": 1,
-	"salary": 700
+	"person": {
+		"name": "Oksana",
+		"surname": "Iskandarova",
+		"age": 30,
+		"pets": "one cat",
+		"salary": "1000$"
+	}
 }

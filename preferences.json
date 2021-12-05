@@ -1,7 +1,9 @@
 {
-	"favorite_movie": "Intouchables",
-	"favorite_tv_series": "La casa de papel",
-	"favorite_food": "Rolls",
-	"favorite_season": "Spring",
-	"favorite_country": "Sweden"
+	"preferences": {
+		"favorite_movie": "Intouchables",
+		"favorite_tv_series": "La casa de papel",
+		"favorite_food": "Rolls",
+		"favorite_season": "Spring",
+		"favorite_country": "Sweden"
+	}
 }
