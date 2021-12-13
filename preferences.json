@@ -1,9 +1,20 @@
 {
 	"preferences": {
 		"favorite_movie": "Intouchables",
-		"favorite_tv_series": "La casa de papel",
-		"favorite_food": "Rolls",
+		"favorite_tv_serials": [
+			"La casa de papel",
+			"Vikings"
+		],
+		"favorite_foods": [
+			"Rolls",
+			"Steak",
+			"Cakes"
+		],
 		"favorite_season": "Spring",
-		"favorite_country": "Sweden"
+		"favorite_countries": [
+			"Sweden",
+			"USA",
+			"Italy"
+		]
 	}
 }

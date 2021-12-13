@@ -1,9 +1,18 @@
 {
 	"person": {
-		"name": "Oksana",
-		"surname": "Iskandarova",
-		"age": 30,
-		"pets": "one cat",
-		"salary": "1000$"
+		"about_me": {
+			"name": "Oksana",
+			"surname": "Iskandarova",
+			"age": 30,
+			"date of birth": "12/09/1991"
+		},
+		"Work": {
+			"position": "QA Enginner",
+			"looking_for": "Remote job"
+		},
+		"salary": {
+			"amount": "1000",
+			"currency": "USD"
+		}
 	}
 }
